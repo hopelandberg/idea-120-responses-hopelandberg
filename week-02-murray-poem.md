@@ -1,6 +1,8 @@
-sentence 1 
-this 
-will 
-be a poem 
-about the reading 
-also:  Using GitHub markdown syntax link to any YouTube video that you feel is related to your poem and include at least 2 images.
+## The Stories We Tell ~~that cave us in or set us free?~~
+
+**First,** fire creates a shadow dance across cave drawings  
+Like a dream materializes endless forms: plays, radio, telephones _and more_  
+_Same stories across multimedia_  
+Casting different shadows in the caverns of the mind  
+**Now,** computer power mesmerizes us all  
+
