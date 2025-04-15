@@ -7,4 +7,5 @@ For the projects, I'm thinking of having still shots of them and you can hover a
 
 Perhaps to set up my future self for better success with using this, I could make a 5th project page that is just a gallery where I can keep adding pictures as time goes on, it could be labled "other art" or something like that. "collection dump," "art dump," something like that! 
 
+Maybe projects 1-3 will go into a page called something like school projects, or digital art
 Maybe I want to break up the 5  later into categories like: crochet, watercolors, acrylics, oils, poems 
